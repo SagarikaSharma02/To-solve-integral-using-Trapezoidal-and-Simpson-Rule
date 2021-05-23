@@ -1,1 +1,1 @@
-# To_solve_integral_using_Trapezoidal_and_Simpson_Rule
+# To-solve-integral-using-Trapezoidal-and-Simpson-Rule
